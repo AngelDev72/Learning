@@ -1,4 +1,4 @@
-// Examples of Rust code for variables 
+// Examples of Rust code for variables
 
 fn main() {
     let x = 5;
